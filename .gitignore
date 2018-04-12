@@ -1,3 +1,9 @@
 .terraform
+.terraform.old
+.terraform.save
+.terraform.original
 *.tfstate
+*.tfstate.old
+*.tfstate.save
+*.tfstate.original
 *.tfstate.backup
